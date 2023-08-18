@@ -72,7 +72,7 @@ Ex. <br/>
 ➔ flags are characters that we pass with commands to modify their behaviour <br/>
 <br/>
 ✔️ `man command_Name` = manual command that give information about that command <br/>
-➔ EX. <br/>
+➔ Ex. <br/>
 ➔ `man ls` = give info about ls command <br/>
 ➔ `man mkdir` = give info about mkdir command <br/>
 <br/>
@@ -82,3 +82,30 @@ Ex. <br/>
 ➔ `ls -/` <br/>
 ➔ `ls -a` ( list all files including hidden file starting with '.' ) <br/>
 ➔ `ls -/a` <br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🤎 Touch commands
+➔ userd to create files ( with extenstion ) ( not for creating folder ) <br/>
+<br/>
+✔️ `touch file.extension` = create file with fileName with extension <br/>
+➔ Ex. <br/>
+➔ `touch index.html` ( create file with .html extension at working directory pwd ) <br/>
+➔ `touch style.css` ( create file with .css extension at working directory pwd ) <br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 💙 Deleting files and Folders
+➔ delete is sensitive ( deleted file will not go to recycle bin -- it is like permenant delete ) <br/>
+<br/>
+✔️ `rm fileName`  ( 'rm index.html' at working directory pwd ) <br/>
+✔️ `rmdir folderName` ( remove empty folder )  <br/> 
+✔️ `rm -rf folderName` ( remove any folder )  <br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💌 🚀 [CHEATSHEET](https://drive.google.com/file/d/1erdZzpDFZEl0oo-pVZ25Y0yiAWVjjhrZ/view?usp=sharing)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+♻️ @ Created by Parth with 💚
