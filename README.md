@@ -76,9 +76,9 @@ Ex. <br/>
 ➔ `man ls` = give info about ls command <br/>
 ➔ `man mkdir` = give info about mkdir command <br/>
 <br/>
-⚠️ `man` command is not working with git bash so use ✔️ `command_Name --help` 
+⚠️ `man` command is not working with git bash so use ✔️ `command_Name --help`  <br/>
 
 #### 🚩 with flags
-➔ `ls -/`
-➔ `ls -a` ( list all files including hidden file starting with '.' )
-➔ `ls -/a`
+➔ `ls -/` <br/>
+➔ `ls -a` ( list all files including hidden file starting with '.' ) <br/>
+➔ `ls -/a` <br/>
