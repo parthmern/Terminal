@@ -52,6 +52,8 @@ Ex. <br/>
 
 ### 💚 Paths ( absolute and relative )
 
+➔ `tree` to show the hirechery diagram or folder structure
+<br/>
 ➔ `cd desktop/parthcodes` --> relative path ( dependent on current location/ directory )  <br/>
 ➔ `cd /c/Users/Administrator/desktop/parthcodes` --> absolute path  ( start with / slash after cd )   <br/>
  <br/>
